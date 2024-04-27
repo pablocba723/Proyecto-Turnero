@@ -1,0 +1,31 @@
+.card1 {
+    position: relative;
+    top: 40px;
+    left: 0px;
+  }
+  .card-text1 {
+    position: relative;
+   color: rgb(5, 0, 0);
+   font-family:Georgia, 'Times New Roman', Times, serif
+  }
+
+.reloj{
+    font-family: 'share tech mono', monospace;
+    color: #000000;
+    position: relative;
+left: 900px;
+top: -300px;
+transform: translate(-50%,-50%);
+text-shadow: 0 0 20PX rgb(0, 0, 0),0 0 20px rgb(53, 53, 10);
+
+}
+
+.fecha{
+    letter-spacing: 0.1em;
+    font-size: 24px;
+    
+}
+.tiempo{
+    letter-spacing: 0.1em;
+    font-size: 24px;
+}
